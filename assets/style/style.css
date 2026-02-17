@@ -1,0 +1,71 @@
+
+#title1 {
+    color: blue;
+}
+
+
+.boldText {
+    font-weight: bold;
+}
+
+
+h2 {
+    color: green;
+}
+
+
+.box {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+
+div p {
+    color: purple;
+}
+
+
+ul > li {
+    color: orange;
+}
+
+
+.redText {
+    color: red;
+}
+
+
+#centerText {
+    text-align: center;
+}
+
+
+.borderBox {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+
+.background {
+    background-color: yellow;
+}
+
+
+a:hover {
+    color: red;
+}
+
+
+input[type="text"] {
+    border: 2px solid blue;
+}
+
+
+h3, p.classSelector {
+    font-style: italic;
+}
+
+
+#idSelector {
+    color: brown;
+}
